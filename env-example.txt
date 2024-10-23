@@ -1,0 +1,3 @@
+MONGO = "mongodb+srv://<dbname>:<password>@cluster1.ycjqp1d.mongodb.net/online-bidding-system?retryWrites=true&w=majority&appName=Cluster1"
+PORT = 4000
+JWT_SECRET = "12345679abcdefghijklmnopqrstuvwxyz"
